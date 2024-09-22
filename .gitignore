@@ -25,7 +25,6 @@ dist-ssr
 *.sw?
 
 
-eslint.config.js
-tsconfig.app.json
-tsconfig.node.json
-vite.config.ts
+*.config.js
+*.json
+*.config.ts
